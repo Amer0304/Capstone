@@ -1,0 +1,33 @@
+Aplikacioni React Native per Porositjen e Ushqimit Online
+
+Hyrje:
+Ky dokument ofron nje udhezues te plote per zhvillimin e nje aplikacioni React Native per porositjen e ushqimit online. Aplikacioni lejon perdoruesit te shfleton nje liste restorantesh dhe kafeneve fast food, te shohin menune e tyre dhe te vendosin nje porosi per dorezim ose marrje ne vend. Aplikacioni perfshin 12 faqe, perfshire faqen Login, faqen Register, faqen Home, faqen e Restaurant, faqen Restaurant Detail, faqen e Basket, faqen Favorite, faqen Profile, faqen Checkout, faqen Delivery dhe faqen  Detail, 
+ 
+Qellimi:
+Qellimi i ketij aplikacioni eshte te ofroje klienteve nje menyre te lehte dhe eficiente per te porositur ushqim ne ligne. Aplikacioni lejon perdoruesit te shfleton neper nje liste restorantesh dhe kafeneve fast food, te shohin menune e tyre dhe te vendosin nje porosi ne disa klikime.
+
+Vetite:
+Faqja e Login: Faqja e hyrjes lejon perdoruesit te hyne ne llogarine e tyre ose te regjistrohen nese nuk kane nje llogari te meparshme.
+
+Faqja e Register: Faqja e regjistrimit u lejon perdoruesve te krijojne nje llogari te re ne aplikacion.
+
+Faqja Home: Faqja kryesore i ofron perdoruesve nje liste te shpejte te restoranteve dhe kafeneve fast food, si dhe opsionet e tyre te preferuara.
+
+Faqja Restaurant: Faqja e restorantit i ofron perdoruesve nje liste te restoranteve dhe kafeneve fast food te disponueshme per porosi.
+
+Faqja  Restaurant Detail: Faqja e detajeve te restorantit i ofron perdoruesve nje pamje te detajuar te nje restoranti te caktuar, perfshire menune, oraret e punes dhe nje harte me vendndodhjen.
+
+Faqja Detail: Faqja e detajeve te ushqimit i ofron perdoruesve nje pamje te detajuar te secilit artikull ushqimi, perfshire perberesit, informacionin mbi kalorite dhe fotot.
+Faqja Basket: Faqja e koshit lejon perdoruesit te shtojne artikuj ushqimi ne porosine e tyre dhe te shohin nje permbledhje te porosise se tyre para pageses.
+
+Faqja Favorite: Faqja e te preferuarve lejon perdoruesit te ruajne artikujt e tyre te preferuar per te ardhmen e tyre te lehte.
+
+Faqja Checkout: Faqja e permbledhjes se porosise i ofron perdoruesve nje pamje te detajuar te porosise se tyre, si dhe opsionet per te anuluar ose ndryshuar porosine.
+
+Faqja e Delivery: Faqja e pageses lejon perdoruesit te rishikojne porosine e tyre, te japin informacionin e dorezimit dhe te zgjedhin nje metode pagese.
+
+Faqja e Profile: Faqja e profilit lejon perdoruesit te shohin dhe te ndryshojne informacionin e llogarise se tyre, si adresa, numri i telefonit dhe metoda e pageses.
+
+
+Perfundim: Ky dokument eshte nje udhezues i hollesishem per zhvillimin e nje aplikacioni React Native per porositjen e ushqimit ne ligne. Aplikacioni do te jete i lehte per t'u perdorur dhe do te siguroje nje game te gjere opsionesh per zgjedhjen e ushqimeve ne nje menyre te organizuar dhe te lehte.
+
